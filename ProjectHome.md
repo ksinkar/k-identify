@@ -1,0 +1,2 @@
+This project uses edge information by applying canny on mean shift filtered image. Finally, this edge information is given as marker image to watershed algorithm which further segments the image. The target images are currently
+high resolution satellite images.
